@@ -55,6 +55,7 @@ limitations:
     ![Screenshot](images/loadproject.png)
 -- Select project folder and extension is loaded to chrome://extensions/
     ![Screenshot](images/extensionapp.png)
+    
 -- Refresh the extension and open LinkedIn search page.
 -- Select people option.
 -- open extension window from extensions area at the end of search url bar.
