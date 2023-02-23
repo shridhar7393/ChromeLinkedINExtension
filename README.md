@@ -48,18 +48,26 @@ limitations:
 2. everytime refresh the current page before using the extension. (Need to work on that!).
 
 **How to use?**
+
 -- Clone the project or download zip format and extract downloaded zip.
+
 -- Hit chrome://extensions/ on your browser and toggle "Developer mode" On.
     ![Screenshot](images/extension.png)
+    
 -- Click "Load unpacked" button.
     ![Screenshot](images/loadproject.png)
+    
 -- Select project folder and extension is loaded to chrome://extensions/
     ![Screenshot](images/extensionapp.png)
     
 -- Refresh the extension and open LinkedIn search page.
+
 -- Select people option.
+
 -- open extension window from extensions area at the end of search url bar.
+
 -- Start to see extension performance!
+
 
 Thank you for Reading. I am open to suggestions, recommendations or ideas, please feel free to share if any.
 
