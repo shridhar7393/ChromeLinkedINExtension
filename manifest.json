@@ -1,0 +1,32 @@
+{
+    "manifest_version": 3,
+    "name": "Profile Connect Plus",
+    "version": "1.0.0",
+    "author": "shreeheg@gmail.com",
+    "description": "send connection requests to a list of people in a LinkedIn search.",
+    
+    "permissions": [
+        "activeTab",
+        "scripting",
+        "tabs"
+    ],
+    "host_permissions": [
+        "https://www.linkedin.com/search/results/people/*/*"
+    ],
+    "icons": {
+        "16": "images/icon.png",
+        "32": "images/icon.png",
+        "48": "images/icon.png",
+        "128": "images/icon.png"
+    },
+    "action": {
+        "default_title": "Profile Connect Plus",
+        "default_popup": "popup/popup.html"
+    },
+    "content_scripts": [
+        {
+          "matches": ["https://www.linkedin.com/search/results/people/*"],
+          "js": ["scripts/content-script.js"]
+        }
+      ]
+}
