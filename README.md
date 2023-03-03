@@ -3,9 +3,6 @@ Chrome extension that is able to send connection requests to a list of people in
 
 Greetings!!
 
-I applied for a open position in a company and they have given me a take-home assignment and to upload src to GitHub.
-The task is to create a chrome extension that's able to send connection requests to a list of people in a LinkedIn search.
-
 I am completely new to chrome extension development(never ever attempted). But not to JavaScript huh!(That encouraged me).
 So, started studying chrome extension official documentation(Obviously lol!). I got extension knowledge to a decent level and started hitting keyboard!.
 
